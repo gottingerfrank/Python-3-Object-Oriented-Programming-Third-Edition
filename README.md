@@ -1,4 +1,4 @@
-# Python 3 Object-Oriented Programming - Third Edition
+# Python 3 Object-Oriented Programming - Third Edition | Working copy/fork
 
 <a href="https://www.packtpub.com/application-development/python-3-object-oriented-programming-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789615852 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12012%20MockupCover.png" alt="Python 3 Object-Oriented Programming - Third Edition" height="256px" align="right"></a>
 
